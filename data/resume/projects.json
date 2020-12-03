@@ -1,0 +1,26 @@
+[
+    {
+        "name": "Audiochan",
+        "github": "audiochan",
+        "demo": "",
+        "isWorkInProgress": true,
+        "description": "Audiochan is a message board for musicians. Users can upload their audio to receive feedback from others.",
+        "tech_stack": ["ASP.NET Core", "Entity Framework Core", "Next.js", "Git"]
+    },
+    {
+        "name": "Dark Mode Images",
+        "github": "DarkModeImages",
+        "demo": "",
+        "isWorkInProgress": false,
+        "description": "A simple web application that allow people to upload their image, and get it darkened.",
+        "tech_stack": ["ASP.NET Core", "Reactjs"]
+    },
+    {
+        "name": "Travel2change",
+        "github": "travel2change",
+        "demo": "",
+        "isWorkInProgress": false,
+        "description": "Travel2change is a website that showcases activities that are fun and impactful, offered by local communities. For this project, the goal was to make the process easier for local communities or organizations to post their activities on the website. Instead of using Wordpress, we used Django to build the application, and implemented a membership system for users to view and create activities.",
+        "tech_stack": ["Django", "Django CMS", "Bootstrap", "Git"]
+    }
+]
